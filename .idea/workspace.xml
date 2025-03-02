@@ -4,18 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d95b6252-2739-49b2-9283-3f469cdcbe51" name="Changes" comment="" />
+    <list default="true" id="d95b6252-2739-49b2-9283-3f469cdcbe51" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/UMG/principal/Listasenlazadas/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/UMG/principal/Listasenlazadas/Lista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/UMG/principal/Listasenlazadas/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/UMG/principal/Listasenlazadas/Nodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/UMG/principal/Listasenlazadas/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/UMG/principal/Listasenlazadas/Principal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Osval2003&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Osval2003/ListasEnlazadas.git&quot;,
+    &quot;accountId&quot;: &quot;f22e6a1d-db95-40d0-973a-775a53512ac9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2tKD7KIkIm720ZeDT3HdWcL6kE0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,14 +50,42 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Enner Godoy/IdeaProjects/ListasEnlazadas/src/main/java/org/UMG/principal/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.UMG.principal.Listasenlazadas.Principal" />
+      <module name="ListasEnlazadas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.UMG.principal.Listasenlazadas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,22 +102,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740091705634</updated>
-      <workItem from="1740091706914" duration="7000" />
+      <workItem from="1740091706914" duration="5027000" />
+      <workItem from="1740253017774" duration="1409000" />
+      <workItem from="1740884670022" duration="2900000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/UMG/principal/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
